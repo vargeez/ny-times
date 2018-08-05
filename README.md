@@ -2,6 +2,14 @@
 
 NY Times is a sample project, to display the most viewed articles of the New York Times, by using the free api provided by the New York Times. GET method is used for retrieving the data from the server and the response is in JSON format. For security reasons, the NY times API requires developer API key for accessing the data from the server. The API key can be generated from the developer site of NY Times.
 
+# SDK versions 
+
+compileSdkVersion 28
+
+minSdkVersion 15
+        
+targetSdkVersion 28
+
 # Dependencies used
 
 Retrofit2 library is used for network communication.
